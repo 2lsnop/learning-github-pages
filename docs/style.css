@@ -1,0 +1,12 @@
+h1 {
+  color:orange;
+  font-weight:100
+  font-family: Helvetica, Arial, sans-serif; 
+}
+
+p {
+  color : gray;}
+
+p em {
+  color : navy;
+}
